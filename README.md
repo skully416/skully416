@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @skully416
+- 👀 I’m interested in women
+- 🌱 I’m currently learning how to get bitches, python, php, html, css, javascript and lua.
+- 💞️ I’m looking to collaborate on nothing!
+- 📫 Latinas > Asians. Fuck you if you disagree.
