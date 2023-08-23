@@ -1,19 +1,4 @@
-
-Welcome to My GitHub Profile!
-    <div style="            background-image: url('https://cdn.buymeacoffee.com/uploads/cover_images/2023/08/3c00d5f67eff2e897032453dba0b1a06.jpg@1950w_0e.webp');
-            background-size: cover;
-            height: 200px; /* Adjust the height as needed */
-            text-align: center;
-            color: #fff;
-            padding: 20px;" class="banner">
-        <h1 style="
-            font-size: 24px;
-            margin-bottom: 10px;
-        ">Welcome to My GitHub Profile!</h1>
-        <p style="        .banner p {
-            font-size: 16px;
-        }">Passionate developer with skills in HTML, CSS, JavaScript, PHP, Lua, and Python.</p>
-    </div>
+<img style="width: 100%; height: 200px;" src="https://i.ibb.co/9HX4cF9/134513135-5.jpg"></img>
 About Me
 Hello, I'm [Your Name], a passionate developer with a diverse skill set in web development and scripting. I have experience in HTML, CSS, JavaScript, PHP, Lua, and Python, and I love to create innovative and user-friendly applications. This GitHub profile showcases some of my work and projects. Feel free to explore and collaborate!
 
