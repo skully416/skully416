@@ -1,14 +1,4 @@
 
-
-        /* Style for text within the banner */
-        .banner h1 {
-            font-size: 24px;
-            margin-bottom: 10px;
-        }
-
-        .banner p {
-            font-size: 16px;
-        }</style>
 Welcome to My GitHub Profile!
     <div style="            background-image: url('your-image-url-here.jpg');
             background-size: cover;
