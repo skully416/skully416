@@ -1,12 +1,4 @@
-<style>        /* Style for the banner container */
-        .banner {
-            background-image: url('your-image-url-here.jpg');
-            background-size: cover;
-            height: 200px; /* Adjust the height as needed */
-            text-align: center;
-            color: #fff;
-            padding: 20px;
-        }
+
 
         /* Style for text within the banner */
         .banner h1 {
@@ -18,9 +10,19 @@
             font-size: 16px;
         }</style>
 Welcome to My GitHub Profile!
-    <div class="banner">
-        <h1>Welcome to My GitHub Profile!</h1>
-        <p>Passionate developer with skills in HTML, CSS, JavaScript, PHP, Lua, and Python.</p>
+    <div style="            background-image: url('your-image-url-here.jpg');
+            background-size: cover;
+            height: 200px; /* Adjust the height as needed */
+            text-align: center;
+            color: #fff;
+            padding: 20px;" class="banner">
+        <h1 style="
+            font-size: 24px;
+            margin-bottom: 10px;
+        ">Welcome to My GitHub Profile!</h1>
+        <p style="        .banner p {
+            font-size: 16px;
+        }">Passionate developer with skills in HTML, CSS, JavaScript, PHP, Lua, and Python.</p>
     </div>
 About Me
 Hello, I'm [Your Name], a passionate developer with a diverse skill set in web development and scripting. I have experience in HTML, CSS, JavaScript, PHP, Lua, and Python, and I love to create innovative and user-friendly applications. This GitHub profile showcases some of my work and projects. Feel free to explore and collaborate!
