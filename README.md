@@ -1,6 +1,6 @@
 
 Welcome to My GitHub Profile!
-    <div style="            background-image: url('your-image-url-here.jpg');
+    <div style="            background-image: url('https://cdn.buymeacoffee.com/uploads/cover_images/2023/08/3c00d5f67eff2e897032453dba0b1a06.jpg@1950w_0e.webp');
             background-size: cover;
             height: 200px; /* Adjust the height as needed */
             text-align: center;
